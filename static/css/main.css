@@ -14,8 +14,10 @@
   background-image: url('../images/portfolio_bg.jpg');
   background-size: cover;
   color: #fff;
+  padding-top: 5rem;
   padding-bottom: 5rem;
 }
+
 .footer {
   background-image: url('../images/footer_bg.jpg');
   background-size: cover;
